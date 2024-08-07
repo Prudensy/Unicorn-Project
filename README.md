@@ -2,10 +2,10 @@
 Introduction:
 
 This project integrates knowledge from SQL, Spreadsheets, and Tableau units, encompassing four main areas:
-Data Exploration with SQL
-Data Cleaning and Analysis using Spreadsheets
-Insight Generation with Tableau
-Executive Summary and Presentation Preparation
+Data Exploration with SQL, 
+Data Cleaning and Analysis using Spreadsheets,
+Insight Generation with Tableau,
+Executive Summary and Presentation Preparation.
 
 Project Background:
 
