@@ -13,7 +13,7 @@ E-commerce platforms like Unicorn have steadily increased their market share ove
 
 Tools: PostgreSQL, Google Sheets, Tableau
 
-Goole sheets link: 
+Google sheets link: 
 https://docs.google.com/spreadsheets/d/1aYwbvrnK5DqAuHaco9Ti_aUvbCYIF0ssHjNJDzbHF3I/edit?usp=drive_link
 
 Tableau Public link:
