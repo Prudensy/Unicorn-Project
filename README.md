@@ -20,8 +20,12 @@ Tools: PostgreSQL, Google Sheets, Tableau.
 This project is a team effort consisting of 4 people (Jul 1 - Jul 7, 2024).
 
 Google sheets link: 
+
 https://docs.google.com/spreadsheets/d/1aYwbvrnK5DqAuHaco9Ti_aUvbCYIF0ssHjNJDzbHF3I/edit?usp=drive_link
 
+
 Tableau Public link:
+
 https://public.tableau.com/app/profile/prudensy.o/viz/unicorn_dashboard1/Dashboard1
+
 https://public.tableau.com/app/profile/prudensy.o/viz/unicorn_dashboard2/Dashboard2
